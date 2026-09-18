@@ -16,7 +16,7 @@ Salutacions! Sóc en **Martí**, alumne de l'**Institut Tecnològic de Barcelona
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack: Només les bases, però amb ganes d'aprendren
 
 <div align="center">
   
